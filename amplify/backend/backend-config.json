@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"ngamplifyfullstack1917db0e": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

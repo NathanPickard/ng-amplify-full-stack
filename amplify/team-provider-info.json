@@ -9,6 +9,11 @@
             "UnauthRoleName": "ngamplifyfullstack-dev-20190730134318-unauthRole",
             "StackName": "ngamplifyfullstack-dev-20190730134318",
             "StackId": "arn:aws:cloudformation:us-west-2:854875202353:stack/ngamplifyfullstack-dev-20190730134318/a92d1660-b30a-11e9-806c-027277c482a4"
+        },
+        "categories": {
+            "auth": {
+                "ngamplifyfullstack1917db0e": {}
+            }
         }
     }
 }
