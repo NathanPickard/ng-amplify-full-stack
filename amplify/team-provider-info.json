@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "ngamplifyfullstack-dev-20190730134318-authRole",
+            "UnauthRoleArn": "arn:aws:iam::854875202353:role/ngamplifyfullstack-dev-20190730134318-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::854875202353:role/ngamplifyfullstack-dev-20190730134318-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "ngamplifyfullstack-dev-20190730134318-deployment",
+            "UnauthRoleName": "ngamplifyfullstack-dev-20190730134318-unauthRole",
+            "StackName": "ngamplifyfullstack-dev-20190730134318",
+            "StackId": "arn:aws:cloudformation:us-west-2:854875202353:stack/ngamplifyfullstack-dev-20190730134318/a92d1660-b30a-11e9-806c-027277c482a4"
+        }
+    }
+}
